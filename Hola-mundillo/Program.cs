@@ -6,7 +6,8 @@ namespace Hola_mundillo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worldaea!");
+            Console.WriteLine("Hello !");
+
         }
     }
 }
